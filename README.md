@@ -29,28 +29,28 @@ XGBoost
 
 ### Some Visualizations are attached here as follows:
 Categorical Data features
-![alt text](images/plot1.PNG)
+![alt text](images/plot1.png)
 Categorical Data features
-![alt text](images/plot2.PNG)
+![alt text](images/plot2.png)
 Numerical Data Features
-![alt text](images/plot4.PNG)
+![alt text](images/plot4.png)
 Data Correlation
-![alt text](images/plot3.PNG)
+![alt text](images/plot3.png)
 
 ### Relation between Target variable and other features
-![alt text](images/plot5.PNG)
+![alt text](images/plot5.png)
 
-![alt text](images/plot6.PNG)
+![alt text](images/plot6.png)
 
-![alt text](images/plot7.PNG)
+![alt text](images/plot7.png)
 
-![alt text](images/plot8.PNG)
+![alt text](images/plot8.png)
 
-![alt text](images/plot9.PNG)
+![alt text](images/plot9.png)
 
-![alt text](images/plot10.PNG)
+![alt text](images/plot10.png)
 
-![alt text](images/plot11.PNG)
+![alt text](images/plot11.png)
 
 ## Inferences
 
